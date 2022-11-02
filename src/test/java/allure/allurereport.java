@@ -38,6 +38,8 @@ public class allurereport {
 	
 	
 		
+	
+	
 	}
 
 	 @Severity(SeverityLevel.CRITICAL)
