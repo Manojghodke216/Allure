@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-08T15:29:29 IST" name="Default suite" finished-at="2022-09-08T15:30:26 IST" duration-ms="56590">
+    <groups>
+    </groups>
+    <test started-at="2022-09-08T15:29:29 IST" name="Default test" finished-at="2022-09-08T15:30:26 IST" duration-ms="56590">
+      <class name="allure.allurereport">
+        <test-method is-config="true" signature="Browser()[pri:0, instance:allure.allurereport@36b4091c]" started-at="2022-09-08T15:29:29 IST" name="Browser" finished-at="2022-09-08T15:30:10 IST" duration-ms="40943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method signature="Login_Credentials()[pri:0, instance:allure.allurereport@36b4091c]" started-at="2022-09-08T15:30:10 IST" name="Login_Credentials" finished-at="2022-09-08T15:30:14 IST" duration-ms="3573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Credentials -->
+        <test-method signature="Captcha()[pri:1, instance:allure.allurereport@36b4091c]" started-at="2022-09-08T15:30:14 IST" name="Captcha" finished-at="2022-09-08T15:30:17 IST" duration-ms="2480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Captcha -->
+        <test-method signature="Question_Bank_Report()[pri:2, instance:allure.allurereport@36b4091c]" started-at="2022-09-08T15:30:17 IST" name="Question_Bank_Report" finished-at="2022-09-08T15:30:20 IST" duration-ms="3621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Question_Bank_Report -->
+        <test-method signature="Question_Bank_Moderator_Report()[pri:3, instance:allure.allurereport@36b4091c]" started-at="2022-09-08T15:30:20 IST" name="Question_Bank_Moderator_Report" finished-at="2022-09-08T15:30:21 IST" duration-ms="884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Question_Bank_Moderator_Report -->
+        <test-method signature="Paper_Setter_Details()[pri:4, instance:allure.allurereport@36b4091c]" started-at="2022-09-08T15:30:21 IST" name="Paper_Setter_Details" finished-at="2022-09-08T15:30:23 IST" duration-ms="1618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Paper_Setter_Details -->
+        <test-method signature="Moderator_Details()[pri:5, instance:allure.allurereport@36b4091c]" started-at="2022-09-08T15:30:23 IST" name="Moderator_Details" finished-at="2022-09-08T15:30:23 IST" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Moderator_Details -->
+        <test-method signature="Paper_Setter_Not_Confirmed()[pri:6, instance:allure.allurereport@36b4091c]" started-at="2022-09-08T15:30:23 IST" name="Paper_Setter_Not_Confirmed" finished-at="2022-09-08T15:30:24 IST" duration-ms="436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Paper_Setter_Not_Confirmed -->
+        <test-method is-config="true" signature="Browser_close()[pri:0, instance:allure.allurereport@36b4091c]" started-at="2022-09-08T15:30:24 IST" name="Browser_close" finished-at="2022-09-08T15:30:26 IST" duration-ms="2425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_close -->
+      </class> <!-- allure.allurereport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
